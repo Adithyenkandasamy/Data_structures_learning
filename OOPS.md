@@ -40,19 +40,19 @@
     - Hierarchical Inheritance
     - Hybrid Inheritance
 
-  - Single Inheritance:
+  - Single Inheritance: [Single Inheritance](/OOPS/Inheritance.py)
     - One class inherits from another class.
     - Ex: 
       - class ElectricCar(Car):
         - pass
 
-  - Multiple Inheritance:
+  - Multiple Inheritance: [Multiple Inheritance](/OOPS/Inheritance.py)
     - One class inherits from multiple classes.
     - Ex: 
       - class ElectricCar(Car, Battery):
         - pass
 
-  - Multilevel Inheritance:
+  - Multilevel Inheritance: [Multilevel Inheritance](/OOPS/Inheritance.py)
     - One class inherits from another class which in turn inherits from another class.
     - Ex: 
       - class ElectricCar(Car):
@@ -60,7 +60,7 @@
       - class HybridCar(ElectricCar):
         - pass
 
-  - Hierarchical Inheritance:
+  - Hierarchical Inheritance: [Hierarchical Inheritance](/OOPS/Inheritance.py)
     - One class inherits from multiple classes.
     - Ex: 
       - class ElectricCar(Car):
@@ -68,7 +68,7 @@
       - class HybridCar(Car):
         - pass
 
-  - Hybrid Inheritance:
+  - Hybrid Inheritance: [Hybrid Inheritance](/OOPS/Inheritance.py)
     - Combination of multiple types of inheritance.
     - Ex: 
       - class ElectricCar(Car, Battery):
@@ -100,7 +100,8 @@
 
 # Encapsulation:
   - Hiding the internal implementation details of a class from the user.
-  - Ex: Banking System
+  - Ex: Click Here - [Encapsulation](/OOPS/Encapsulation.py) 
+    - Banking System
     - User should not know how the money is being transferred.
     - User should only know how to transfer money.
     - This is achieved by making the transfer method private.
@@ -120,7 +121,7 @@
 # Polymorphism:
   - Polymorphism means "many forms".
   - It allows methods to have the same name but different implementations.
-  - Ex:
+  - Ex: Click Here - [Polymorphism](/OOPS/Polymorphism.py)
   - class Dog:
     - def speak(self):
       - return "Woof!"
