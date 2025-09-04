@@ -4,5 +4,6 @@
 - Click Here - [OOPS](/OOPS.md)
 
 ![Core data structures](image-1.png)
+- Time Complexity - [Time Complexity](/Time_complesity.md)
 
 ![Algorithams and Advanced topics](image-3.png)
