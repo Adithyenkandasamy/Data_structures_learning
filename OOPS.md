@@ -10,24 +10,27 @@
 # Class:
   - Blueprint for creating objects
   - Has attributes and methods
-  - Ex: Car class
-  - class Car:
-    - def __init__(self, color, model):
-      - self.color = color
-      - self.model = model
+  - Ex: Click Here - [Class](/OOPS/Class.py)
+  - Car class
+    - class Car:
+      - def __init__(self, color, model):
+        - self.color = color
+        - self.model = model
     
-    - def drive(self):
-      - print("Driving")
+      - def drive(self):
+        - print("Driving")
 
 # Object:
   - Instance of a class
   - Created from a class
-  - Ex: my_car = Car("red", "2020")
+  - Ex: Click Here - [Object](/OOPS/Class.py) 
+    - my_car = Car("red", "2020")
   
 # Inheritance:
   - Inheritance allows a class to inherit attributes and methods from another class.
-  - Ex: class ElectricCar(Car):
-    - pass
+  - Ex: Click Here - [Inheritance](/OOPS/Inheritance.py) 
+    - class ElectricCar(Car):
+      - pass
 
   - This allows code reusability.
   - Types of Inheritance:
@@ -39,34 +42,39 @@
 
   - Single Inheritance:
     - One class inherits from another class.
-    - Ex: class ElectricCar(Car):
-      - pass
+    - Ex: 
+      - class ElectricCar(Car):
+        - pass
 
   - Multiple Inheritance:
     - One class inherits from multiple classes.
-    - Ex: class ElectricCar(Car, Battery):
-      - pass
+    - Ex: 
+      - class ElectricCar(Car, Battery):
+        - pass
 
   - Multilevel Inheritance:
     - One class inherits from another class which in turn inherits from another class.
-    - Ex: class ElectricCar(Car):
-      - pass
-    - Ex: class HybridCar(ElectricCar):
-      - pass
+    - Ex: 
+      - class ElectricCar(Car):
+        - pass
+      - class HybridCar(ElectricCar):
+        - pass
 
   - Hierarchical Inheritance:
     - One class inherits from multiple classes.
-    - Ex: class ElectricCar(Car):
-      - pass
-    - Ex: class HybridCar(Car):
-      - pass
+    - Ex: 
+      - class ElectricCar(Car):
+        - pass
+      - class HybridCar(Car):
+        - pass
 
   - Hybrid Inheritance:
     - Combination of multiple types of inheritance.
-    - Ex: class ElectricCar(Car, Battery):
-      - pass
-    - Ex: class HybridCar(Car):
-      - pass
+    - Ex: 
+      - class ElectricCar(Car, Battery):
+        - pass
+      - class HybridCar(Car):
+        - pass
 
 # Abstraction:
   - Hiding the complex implementation details and showing only the necessary features to the user.
@@ -97,12 +105,12 @@
     - User should only know how to transfer money.
     - This is achieved by making the transfer method private.
     - Ex:
-    - class Bank:
-      - def __init__(self, balance):
-        - self.__balance = balance
-      - def transfer(self, amount):
-        - self.__balance -= amount
-      - def get_balance(self):
+      - class Bank:
+        - def __init__(self, balance):
+          - self.__balance = balance
+        - def transfer(self, amount):
+          - self.__balance -= amount
+        - def get_balance(self):
         - return self.__balance
 
     - my_bank = Bank(1000)
