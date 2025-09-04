@@ -1,7 +1,7 @@
 ## Map-Dsa
 ![python foundation](image.png)
-- OOPS
-- Click Here = [OOPS](/OOPS.md)
-
+- Click here for Fundamentals - [Python Fundamentals](https://www.w3schools.com/python/default.asp)
+- Click Here - [OOPS](/OOPS.md)
+<br>
 ![Core data structures](image-1.png)
 ![Algorithams and Advanced topics](image-3.png)
