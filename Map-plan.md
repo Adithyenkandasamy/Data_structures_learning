@@ -6,5 +6,6 @@
 ![Core data structures](image-1.png)
 - Time Complexity - [Time Complexity](/Time_complesity.md)
 - Array (array lib for OG array)- [Array](/array.ipynb)
+- Linked Lists - [Linked List](/LinkedList.md)
 
 ![Algorithams and Advanced topics](image-3.png)
