@@ -52,7 +52,7 @@ class Node:
 
 - **Doubly Linked List**: Each node points to both the next and previous nodes
 ![alt text](image-5.png)
-***Code in Python***
+- ***Code in Python***
 - ```python
     class DoublyNode:
         def __init__(self, data):
