@@ -52,6 +52,25 @@ class Node:
 
 - **Doubly Linked List**: Each node points to both the next and previous nodes
 ![alt text](image-5.png)
+***Code in Python***
+- ```python
+    class DoublyNode:
+        def __init__(self, data):
+            self.data = data
+            self.next = None
+            self.prev = None
+
+    # Creating nodes
+    head = DoublyNode(10)
+    second = DoublyNode(20)
+    third = DoublyNode(30)
+
+    # Linking nodes
+    head.next = second
+    second.prev = head
+    second.next = third
+    third.prev = second
+
 - **Circular Linked List**: The last node points back to the first node.
  - Types  in circular Linked List:
    - **Singly** Circular Linked List:
