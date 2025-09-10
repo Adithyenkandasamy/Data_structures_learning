@@ -1,13 +1,13 @@
 ## Map-Dsa
 ![python foundation](image.png)
 - Click here for Fundamentals - [Python Fundamentals](https://www.w3schools.com/python/default.asp)
-- Click Here - [OOPS](/OOPS.md)
+- Click here for OOps - [OOPS](/OOPS.md)
+- Click here for map of Time Complexity - [Time Complexity](/Time_complesity.md)
 
 ![Core data structures](image-1.png)
-- Time Complexity - [Time Complexity](/Time_complesity.md)
 - Array (array lib for OG array)- [Array](/array.ipynb)
-- Sorting - [Sorting](/Sorting.ipynb)
 - Linked Lists - [Linked List](/LinkedList.md)
 
 
 ![Algorithams and Advanced topics](image-3.png)
+- Sorting - [Sorting](/Sorting.ipynb)
