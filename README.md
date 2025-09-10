@@ -1,1 +1,1 @@
-# Map link to the plan - [Map-plan](/Map-plan.md)
+# Map link to the plan - [Click here](/Map-plan.md)
