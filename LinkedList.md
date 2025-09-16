@@ -77,3 +77,6 @@ class Node:
    -  ![alt text](image-6.png)
    - **Doubly** Linked List: 
    -  ![alt text](image-7.png)
+
+
+# For more learning use this [Link](https://www.w3schools.com/dsa/dsa_data_linkedlists_types.php)
