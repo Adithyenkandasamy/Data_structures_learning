@@ -7,6 +7,7 @@
 ![Core data structures](image-1.png)
 - Array (array lib for OG array)- [Array](/array.ipynb)
 - Linked Lists - [Linked List](/LinkedList.md)
+- Problem Solving in LinkedList - [Problems](/LinkedListProblems.ipynb)
 
 
 ![Algorithams and Advanced topics](image-3.png)
