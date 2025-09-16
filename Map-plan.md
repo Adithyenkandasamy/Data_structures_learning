@@ -8,6 +8,7 @@
 - Array (array lib for OG array)- [Array](/array.ipynb)
 - Linked Lists - [Linked List](/LinkedList.md)
 - Problem Solving in LinkedList - [Problems](/LinkedListProblems.ipynb)
+- Trees - [Trees](/Trees.ipynb)
 
 
 ![Algorithams and Advanced topics](image-3.png)
